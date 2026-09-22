@@ -1,4 +1,4 @@
-num_str = input("Give me a number: ")
+num_str = input("give me num: ")
 
 try:
     val = float(num_str)
